@@ -86,12 +86,6 @@
   
   
   <url>
-    <loc>http://localhost:4000/Qest.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/all_workshops.html</loc>
   </url>
   
@@ -116,49 +110,7 @@
   
   
   <url>
-    <loc>http://localhost:4000/mydoc_build_scripts.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_exluding_files.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo1.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo2.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo3.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo4.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_special_layouts.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_troubleshooting.html</loc>
+    <loc>http://localhost:4000/registrationn.html</loc>
   </url>
   
   

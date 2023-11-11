@@ -17,7 +17,7 @@ The main objectives of the AE initiative are to:
 Papers that pass the AE will receive a badge that will appear on the first page of the published version; these papers will also be listed on the conference webpage and the final proceedings as having passed the AE. The AE will also feature a Best Artifact award. Papers that do not pass the AE will simply be treated as papers that did not submit an AEP.
 
 ### Submission guidelines
-[EasyChair link for AEP submission](https://easychair.org/account/signin)
+<a href="" target="_blank">EasyChair link for AEP submission</a>
 
 After your paper is accepted for FORMATS 2023, follow the above link to submit your artifact to "FORMATS 2023 AE" on EasyChair. Submit a PDF of the accepted paper, and an abstract that briefly describes (i) the paper and (ii) the relationship between the artifact and the paper. As part of the abstract, (iii) provide a URL to a single zip file containing the AEP. The zip file must be accessible for download by the AE chairs, remain unchanged after submission, and be available for the duration of the AE process. Optionally, (iv) include a SHA-1 hash of the zip file in the abstract to allow AE chairs and committee members to check the integrity of their downloads.
 
@@ -51,7 +51,7 @@ The AE process will be single-blind.
 * If the evaluation of an AEP requires a financial cost (e.g., running it on a cloud service), it might not be evaluated.
 
 ### Evaluation criteria
-Reproducibility and usability are the two main criteria used by the reviewers. Please see [this ACM page](https://www.acm.org/publications/policies/artifact-review-and-badging-current) for a description of AE terminology.
+Reproducibility and usability are the two main criteria used by the reviewers. Please see <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" target="_blank">this ACM page</a>
 
 
 **Reproducibility** essentially means that the results of the paper have been independently obtained by a team other than the authors using artifacts provided by the authors. Reviewers will assign a score and provide feedback based on:
@@ -65,9 +65,10 @@ Reproducibility and usability are the two main criteria used by the reviewers. P
 
 ### Example AEP
 * Citation: Akshay Rajhans, Srinath Avadhanula, Alongkrit Chutinan, Pieter J. Mosterman, and Fu Zhang, “Graphical Modeling of Hybrid Dynamics with Simulink and Stateflow,” In Proceedings of the 21st ACM International Conference on Hybrid Systems: Computation and Control, 2018. Best Repeatability Evaluation Award Finalist.
-* [Official version](https://dl.acm.org/doi/10.1145/3178126.3178152)
-* [Author postprint](https://arajhans.github.io/files/papers/RajhansAC+_HSCC18.pdf​)
+* <a href="https://dl.acm.org/doi/10.1145/3178126.3178152" target="_blank">Official version</a>
+* <a href="https://arajhans.github.io/files/papers/RajhansAC+_HSCC18.pdf" target="_blank">Author postprint</a>
+
 * AEP files
-  * [Shared MATLAB Drive folder](https://drive.matlab.com/sharing/e7e5bf61-23b4-40d1-aa43-0288e375a74c/​)
-  * [Accompanying instructions in PDF](https://arajhans.github.io/files/papers/RajhansAC+_HSCC18_RE.pdf​)
+  * <a href="https://drive.matlab.com/sharing/e7e5bf61-23b4-40d1-aa43-0288e375a74c/" target="_blank">Shared MATLAB Drive folde</a>
+  * <a href="https://arajhans.github.io/files/papers/RajhansAC+_HSCC18_RE.pdf​" target="_blank">Accompanying instructions in PDF</a>
     * Note that these instructions were originally intended to work with MATLAB Release R2017b. The code in the MATLAB Drive folder has been slightly modified to directly work with the latest MATLAB release (R2021b at the time of posting this) in MATLAB Online.

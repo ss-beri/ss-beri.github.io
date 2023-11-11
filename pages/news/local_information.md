@@ -1,5 +1,5 @@
 ---
-title: Local information
+title: Local Information
 sidebar: mydoc_sidebar
 permalink: local_information.html
 toc: false

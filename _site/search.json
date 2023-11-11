@@ -92,15 +92,6 @@
 ,
 
 {
-"title": "Information",
-"tags": "",
-"keywords": "",
-"url": "Qest.html",
-"summary": ""
-}
-,
-
-{
 "title": "All Workshops",
 "tags": "",
 "keywords": "",
@@ -110,7 +101,7 @@
 ,
 
 {
-"title": "",
+"title": "Code of Conduct",
 "tags": "",
 "keywords": "",
 "url": "code_of_conduct.html",
@@ -128,7 +119,7 @@
 ,
 
 {
-"title": "Local information",
+"title": "Local Information",
 "tags": "",
 "keywords": "",
 "url": "local_information.html",
@@ -137,74 +128,11 @@
 ,
 
 {
-"title": "10. Configure the build scripts",
-"tags": "publishing",
-"keywords": "build scripts, generating outputs, building, publishing",
-"url": "mydoc_build_scripts.html",
-"summary": "You need to customize the build scripts. These script automate the publishing of your PDFs and web outputs through shell scripts on the command line."
-}
-,
-
-{
-"title": "Excluding files",
-"tags": "single_sourcing",
-"keywords": "exclusion, separating outputs, removing files from outputs",
-"url": "mydoc_exluding_files.html",
-"summary": "By default, all the files in your Jekyll project are included in the output (this differs from DITA projects, which don't include files unless noted on the map). If you're single sourcing, you'll need to exclude the files that shouldn't be included in the output. The sidebar doesn't control inclusion or exclusion."
-}
-,
-
-{
-"title": "Series demo 1",
+"title": "Registration",
 "tags": "",
 "keywords": "",
-"url": "mydoc_seriesdemo1.html",
-"summary": "This is the first post in the series."
-}
-,
-
-{
-"title": "Series demo 2",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo2.html",
-"summary": "This is the second post in the series."
-}
-,
-
-{
-"title": "Series demo 3",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo3.html",
-"summary": "This is the third post in the series."
-}
-,
-
-{
-"title": "Series demo 4",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo4.html",
-"summary": "This is the fourth post in the series."
-}
-,
-
-{
-"title": "Special layouts overview",
-"tags": "special_layouts",
-"keywords": "layouts, information design, presentation",
-"url": "mydoc_special_layouts.html",
-"summary": "This theme has a few special layouts. Special layouts include the JS files they need directly in the page. The JavaScript for each special layout does not load by default for every page in the site."
-}
-,
-
-{
-"title": "Troubleshooting",
-"tags": "troubleshooting",
-"keywords": "trouble, problems, support, error messages, problems, failure, error,",
-"url": "mydoc_troubleshooting.html",
-"summary": "This page lists common errors and the steps needed to troubleshoot them."
+"url": "registrationn.html",
+"summary": ""
 }
 ,
 

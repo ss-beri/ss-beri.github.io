@@ -8,6 +8,7 @@ toc: false
 {% include image.html file="index.jpg" %}  
 
 
+
 ### Conference
 CONFEST is an umbrella conference comprising four international meetings:  
 * CONCUR​
@@ -19,7 +20,10 @@ CONFEST is an umbrella conference comprising four international meetings:
 
 The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 
-### Sponsors
+### Organization Committee
+* Diwakar Krishnamurthy, University of Calgary, Canada (general co-chair)
+* Yasaman Amannejad, Mount Royal University, Canada (general co-chair)
+* Somayeh Modaberi,University of Calgary, Canada (web chair)
 
-*  [University of Calgary](https://www.ucalgary.ca/)
-*  [Mount Royal University ](https://www.mtroyal.ca/)
+{% include image.html file="Horizontal_Schulich_School_of_Engineering_Logo.png" max-width="400"%} 
+{% include image.html file="MRU_CAL_ALTA_logo_RGB.png" max-width="200"%} 

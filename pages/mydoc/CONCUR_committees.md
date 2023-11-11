@@ -6,8 +6,8 @@ toc: false
 folder: mydoc
 ---
 ### PC Chairs
-* [Rupak Majumdar, Max-Planck institute for Sofware Systems, Germany](https://people.mpi-sws.org/~rupak/)
-* [Alexandra Silva, Cornell, USA](https://www.engineering.cornell.edu/faculty-directory/alexandra-silva)
+* <a href="https://people.mpi-sws.org/~rupak/" target="_blank">Rupak Majumdar, Max-Planck institute for Sofware Systems, Germany</a>
+* <a href="https://www.engineering.cornell.edu/faculty-directory/alexandra-silva" target="_blank">Alexandra Silva, Cornell, USA</a>
 
 ### Program committee
 TBD

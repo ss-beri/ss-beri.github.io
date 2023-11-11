@@ -18,74 +18,74 @@ entries:
       type: frontmatter
 
   - title: CONCUR
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Call for Papers
       url: /CONCUR_call_for_papers.html
-      output: web, pdf
+      output: web
       
     - title: Accepted Papers
       url: /CONCUR_accepted_papers.html
-      output: web, pdf
+      output: web
 
     - title: Programme
       url: /CONCUR_programme.html
-      output: web, pdf
+      output: web
 
     - title: Committees
       url: /CONCUR_committees.html
-      output: web, pdf
+      output: web
 
     - title: Awards
       url: /CONCUR_awards.html
-      output: web, pdf
+      output: web
 
-  - title: FORMATS
-    output: web, pdf
+  - title: QUEST/FORMATS
+    output: web
     folderitems:
 
     - title: Call for Papers
       url: /FORMATS_call_for_papers.html
-      output: web, pdf
+      output: web
       
     - title: Accepted Papers
       url: /FORMATS_accepted_papers.html
-      output: web, pdf
+      output: web
 
     - title: Programme
       url: /FORMATS_programme.html
-      output: web, pdf
+      output: web
 
     - title: Committees
       url: /FORMATS_committees.html
-      output: web, pdf
+      output: web
 
     - title: Artifact Evaluation Process
       url: /FORMATS_artifact_evaluation_process.html
-      output: web, pdf
+      output: web
 
-  - title: Qest
-    output: web, pdf
-    folderitems:
-
-    - title: Information
-      url: /Qest.html
-      output: web, pdf
+  #- title: Qest
+  #  output: web, pdf
+  #  folderitems:
+#
+#   - title: Information
+ #     url: /Qest.html
+  #    output: web, pdf
 
   - title: Workshops
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: All Workshops
       url: /all_workshops.html
-      output: web, pdf
+      output: web
 
     - title: Call for Proposals
       url: /workshops_call_for_proposals.html
-      output: web, pdf
+      output: web
     
-    - title: YR-CONCUR Workshop
-      url: /workshops_YR-CONCUR_workshop.html
-      output: web, pdf
+  #  - title: YR-CONCUR Workshop
+  #    url: /workshops_YR-CONCUR_workshop.html
+  #    output: web
 # Copyright 2021 Google LLC
